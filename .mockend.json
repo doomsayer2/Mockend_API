@@ -11,7 +11,12 @@
       "post": "Post"
     },
     "Sensor": {
+      "id": "int",
       "name": "string",
-      "id": "int"
+      "time": "date",
+      "active": "boolean",
+      "batteryLevel": "int",
+      "fillStand": "int",
+      "location": "string"
     }
   }
